@@ -1,0 +1,16 @@
+{
+  "name": "tutoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1tutoring.js",
+  "scripts": {
+    "start": "webpack-cli",
+    "watch": "webpack-cli --watch",
+    "clean": "rm -rf ./dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.0.1"
+  }
+}

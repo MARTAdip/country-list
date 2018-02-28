@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Special+Elite');
+
+* {
+    font-family: 'Special Elite', cursive;
+}
+
+i{
+    cursor: pointer;
+}
+
+button {
+    font-family: 'Special Elite', cursive;
+}
