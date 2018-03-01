@@ -4,8 +4,8 @@
   "description": "",
   "main": "1tutoring.js",
   "scripts": {
-    "start": "webpack-cli",
-    "watch": "webpack-cli --watch",
+    "start": "./node_modules/.bin/webpack",
+    "watch": "./node_modules/.bin/webpack --watch",
     "clean": "rm -rf ./dist"
   },
   "author": "",

@@ -11,3 +11,17 @@ i{
 button {
     font-family: 'Special Elite', cursive;
 }
+
+#map{
+    float: left;
+    width: 800px;
+    height: 500px;
+    
+}
+
+#pano{
+    float: left;
+    width: 800px;
+    height: 500px;
+    
+}
