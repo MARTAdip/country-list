@@ -8,6 +8,7 @@ function getCountries(){
     .then(countries =>{ 
         countriesArray = countries;
         createLayout(countriesArray);
+        console.log(countriesArray)
     })
     /* .catch(err => {
        alert('Fetch Error :-S', err);
